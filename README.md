@@ -11,6 +11,10 @@ This project uses the following technologies:
 | react       | 17.0.2  |
 | tailwindcss | 3.0.16  |
 
+## Live Demo
+
+https://react-interview-test.netlify.app/
+
 ## Installation
 
 ### Clone the repository
