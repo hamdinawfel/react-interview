@@ -1,9 +1,17 @@
-import "./App.css";
-import Nabar from "./components/Navbar";
+import Navbar from "./components/Navbar";
+import Hero from "./components/Hero";
+import Services from "./components/Services";
+import Work from "./components/Work";
+import CallToAction from "./components/CallToAction";
+
 function App() {
   return (
     <div>
-      <Nabar />
+      <Navbar />
+      <Hero />
+      <Services />
+      <Work />
+      <CallToAction />
     </div>
   );
 }

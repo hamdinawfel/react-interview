@@ -2,9 +2,9 @@ export default function Navbar() {
   return (
     <header className='bg-blue relative py-10'>
       <nav className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
-        <div class='flex flex-row'>
+        <div className='flex flex-row'>
           {/* Logo section */}
-          <div class='basis-1/4 pt-2'>
+          <div className='basis-1/4 pt-2'>
             <div className='h-16 flex items-center'>
               <div className='h-5 w-5 bg-logo' />
               <div className='h-5 w-5 bg-white rounded-full mx-1' />
@@ -25,6 +25,7 @@ export default function Navbar() {
           <div className='basis-1/4 flex items-center place-content-end'>
             <img
               className='h-16 w-16  rounded-full border-4 border-white'
+              alt='Profile'
               src='https://images.unsplash.com/photo-1492562080023-ab3db95bfbce?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=facearea&facepad=4&w=256&h=256&q=80'
             />
           </div>

@@ -9,4 +9,22 @@
   .bg-logo {
     background-color: #f95454;
   }
+  .color-grey {
+    color: #6e645f;
+  }
+  .clip-path {
+    clip-path: ellipse(84% 100% at 74.48% 100%);
+  }
+  .bg-green {
+    background-color: #c5cebd;
+  }
+  .bg-pink {
+    background-color: #dfccc2;
+  }
+  .border-link {
+    border-bottom: 2px solid #f95454;
+  }
+  .bg-purple {
+    background-color: #c2b8cc;
+  }
 }
