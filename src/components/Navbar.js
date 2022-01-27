@@ -1,6 +1,6 @@
 export default function Navbar() {
   return (
-    <header className='bg-blue relative py-10'>
+    <header className='bg-white tablet:bg-black relative py-10'>
       <nav className='max-w-7xl mx-auto px-4 sm:px-6 lg:px-8'>
         <div className='flex flex-row'>
           {/* Logo section */}
