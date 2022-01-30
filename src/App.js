@@ -1,21 +1,24 @@
-import Navbar from "./components/Navbar";
+import Nav from "./components/Nav";
 import Hero from "./components/Hero";
 import Services from "./components/Services";
 import Work from "./components/Work";
 import CallToAction from "./components/CallToAction";
+import AspectRatio from "./tailwindLabs/AspectRatio";
+
 import Footer from "./components/Footer";
-// import Card from "./components/Card";
+import Card from "./components/Card";
 
 function App() {
   return (
     <div>
-      <Navbar />
-      <Hero />
+      <Nav />
+      {/*  <Hero />
       <Services />
       <Work />
-      <CallToAction />
-      <Footer />
-      {/* <Card /> */}
+      <CallToAction /> */}
+      {/* <AspectRatio /> */}
+      {/* <Footer /> */}
+      <Card />
     </div>
   );
 }
