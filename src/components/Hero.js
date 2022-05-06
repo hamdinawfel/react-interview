@@ -5,12 +5,10 @@ import image_4 from "../assets/images/image-4.png";
 import image_5 from "../assets/images/image-5.png";
 import image_6 from "../assets/images/image-6.png";
 import image_7 from "../assets/images/image-7.png";
-
 import vector_1 from "../assets/shapes/vector-1.png";
 import vector_2 from "../assets/shapes/vector-2.png";
 import vector_3 from "../assets/shapes/vector-3.png";
 import vector_4 from "../assets/shapes/vector-4.png";
-
 import abstract_1 from "../assets/shapes/abstract-1.png";
 import abstract_2 from "../assets/shapes/abstract-2.png";
 import abstract_3 from "../assets/shapes/abstract-3.png";
